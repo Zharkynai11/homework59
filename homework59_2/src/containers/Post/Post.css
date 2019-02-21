@@ -1,0 +1,9 @@
+textarea.text {
+    width: 90vw;
+    left: 2px;
+}
+button.close{
+    float: right;
+    background-color: rgba(0,0,0,0);
+    border: none;
+}
